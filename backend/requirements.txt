@@ -1,0 +1,12 @@
+# FastAPI dependecies
+fastapi==0.79.0
+uvicorn==0.18.2
+python-multipart==0.0.5
+Jinja2==3.1.2
+
+# TOP validation
+pyotp==2.6.0
+
+# Json Web Token
+python-jose==3.3.0
+cryptography==37.0.4
